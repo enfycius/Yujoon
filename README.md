@@ -14,3 +14,5 @@ My tutor, Yujoon's Repo
 | 23.04.21 | 19:00 ~ 20:04 |                     Playbot(#15, #16), 10 Problems of 300 Problems (if, input)                     |
 | 23.04.27 | 21:10 ~ 22:13 |                            Python: Input, Split Function + Baekjoon 1000                           |
 | 23.05.04 | 21:00 ~ 21:59 |        Python: Solving Problems on the Jungol (All problems (related to print) was solved.)        |
+| 23.05.11 | 21:00 ~ 22:00 |                               Python: Solving Problems on the Jungol                               |
+| 23.05.13 | 16:00 ~ 17:05 |                               Python: Solving Problems on the Jungol                               |
